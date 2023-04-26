@@ -8,7 +8,7 @@ use App\Models\Category;
 
 class CategoriesController extends Controller
 {
-
+    // kontroler za kategorije
     public function __construct()
     {
         // auth znaci da moras biti ulogovan da mi prisao akciji
